@@ -1,0 +1,5 @@
+name = 'tndc_api'
+version = '0.0.1'
+author = 'Rachel Snyder'
+email = 'rachelmassey29@gmail.com'
+description = 'The Transnerd.com API'
